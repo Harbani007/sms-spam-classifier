@@ -1,7 +1,7 @@
-# SMS Spam Detection
+# SMS Spam Classifier
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![CI](https://github.com/harbani007/sms-spam-detection/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/harbani007/sms-spam-classifier/actions/workflows/ci.yml/badge.svg)
 
 An end-to-end SMS spam classifier built with classical NLP and scikit-learn.
 
@@ -59,7 +59,7 @@ The SMS Spam Collection dataset is relatively small, sparse, and keyword-driven,
 ## Project Structure
 
 ```text
-sms-spam-detection/
+sms-spam-classifier/
 ├── src/        # training, preprocessing, inference, API
 ├── tests/      # loader, preprocessing, prediction tests
 ├── web/        # React frontend
