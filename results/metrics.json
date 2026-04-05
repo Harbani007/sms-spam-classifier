@@ -1,0 +1,20 @@
+{
+  "best_model_name": "MNB",
+  "best_vectorizer": "BoW",
+  "selected_pipeline_name": "MNB_BoW",
+  "cv_mean_f1": 0.926159,
+  "cv_std_f1": 0.014509,
+  "test_accuracy": 0.984526,
+  "test_precision": 0.96,
+  "test_recall": 0.916031,
+  "test_f1": 0.9375,
+  "train_size": 4135,
+  "test_size": 1034,
+  "label_mapping": {
+    "0": "ham",
+    "1": "spam"
+  },
+  "random_state": 42,
+  "cv_folds": 5,
+  "test_split": 0.2
+}

@@ -1,0 +1,23 @@
+# requirements.txt — SMS Spam Detection
+# Pinned to stable versions; tested on Python 3.10 / 3.11
+
+# Core data science
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+
+# NLP — PorterStemmer only, no corpus download needed
+nltk==3.8.1
+
+# Model serialisation
+joblib==1.4.2
+
+# Visualisation
+matplotlib==3.8.4
+
+# API server
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+pydantic==2.7.1
+
+pytest==8.3.2

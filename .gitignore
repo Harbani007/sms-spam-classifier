@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+.env
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+pytest_cache/
+.pytest_cache/
+src/__pycache__/
+tests/__pycache__/
+
+# Dataset — too large / not redistributable
+data/spam.csv
+data/*.csv
+
+# Model artifact — optional to commit (see README)
+# models/best_pipeline.pkl
+
+# Node / frontend
+web/node_modules/
+web/.env.local
+web/dist/
+web/.vite/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Keep these tracked:
+# results/*.json
+# results/*.csv
+# results/*.png
+# models/.gitkeep
+# results/.gitkeep

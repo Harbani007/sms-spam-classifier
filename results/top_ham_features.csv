@@ -1,0 +1,26 @@
+feature,score,note
+gt,-4.716207,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+lt,-4.711692,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+lt gt,-4.596733,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+lor,-4.218805,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+da,-4.06712,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+say,-3.9187,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+later,-3.617595,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+do,-3.590196,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+said,-3.562025,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+realli,-3.518222,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+sure,-3.503184,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+home,-3.46457,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+lol,-3.440664,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+co,-3.407874,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+sleep,-3.356581,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+morn,-3.283822,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+finish,-3.283822,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+smile,-3.20535,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+amp,-3.20535,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+oh,-3.195094,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+wat,-3.184731,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+gonna,-3.163677,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+haha,-3.163677,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+watch,-3.163677,log P(feat|spam)/P(feat|ham) — negative = ham-indicative
+go,-3.142171,log P(feat|spam)/P(feat|ham) — negative = ham-indicative

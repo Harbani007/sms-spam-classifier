@@ -1,0 +1,111 @@
+{
+  "false_positives": [
+    {
+      "text": "Nokia phone is lovly..",
+      "true_label": "ham",
+      "predicted_label": "spam",
+      "score": 0.9912623090334457,
+      "score_type": "probability"
+    },
+    {
+      "text": "K..k.:)congratulation ..",
+      "true_label": "ham",
+      "predicted_label": "spam",
+      "score": 0.7594633148780008,
+      "score_type": "probability"
+    },
+    {
+      "text": "K k:) sms chat with me.",
+      "true_label": "ham",
+      "predicted_label": "spam",
+      "score": 0.7232701295082178,
+      "score_type": "probability"
+    },
+    {
+      "text": "Hey...Great deal...Farm tour 9am to 5pm $95/pax, $50 deposit by 16 May",
+      "true_label": "ham",
+      "predicted_label": "spam",
+      "score": 0.6217356590782049,
+      "score_type": "probability"
+    },
+    {
+      "text": " what number do u live at? Is it 11?",
+      "true_label": "ham",
+      "predicted_label": "spam",
+      "score": 0.5513681391561264,
+      "score_type": "probability"
+    }
+  ],
+  "false_negatives": [
+    {
+      "text": "SMS. ac sun0819 posts HELLO:\\You seem cool",
+      "true_label": "spam",
+      "predicted_label": "ham",
+      "score": 0.4725223774024258,
+      "score_type": "probability"
+    },
+    {
+      "text": "ringtoneking 84484",
+      "true_label": "spam",
+      "predicted_label": "ham",
+      "score": 0.12623941958887555,
+      "score_type": "probability"
+    },
+    {
+      "text": "88066 FROM 88066 LOST 3POUND HELP",
+      "true_label": "spam",
+      "predicted_label": "ham",
+      "score": 0.0613895176806087,
+      "score_type": "probability"
+    },
+    {
+      "text": "Missed call alert. These numbers called but left no message. 07008009200",
+      "true_label": "spam",
+      "predicted_label": "ham",
+      "score": 0.027637074403559527,
+      "score_type": "probability"
+    },
+    {
+      "text": "ASKED 3MOBILE IF 0870 CHATLINES INCLU IN FREE MINS. INDIA CUST SERVs SED YES. L8ER GOT MEGA BILL. 3 DONT GIV A SHIT. BAILIFF DUE IN DAYS. I O å£250 3 WANT å£800",
+      "true_label": "spam",
+      "predicted_label": "ham",
+      "score": 0.0016355770244426825,
+      "score_type": "probability"
+    },
+    {
+      "text": "Hi if ur lookin 4 saucy daytime fun wiv busty married woman Am free all next week Chat now 2 sort time 09099726429 JANINExx Callså£1/minMobsmoreLKPOBOX177HP51FL",
+      "true_label": "spam",
+      "predicted_label": "ham",
+      "score": 0.0012126825086772924,
+      "score_type": "probability"
+    },
+    {
+      "text": "Hi its LUCY Hubby at meetins all day Fri & I will B alone at hotel U fancy cumin over? Pls leave msg 2day 09099726395 Lucy x Callså£1/minMobsmoreLKPOBOX177HP51FL",
+      "true_label": "spam",
+      "predicted_label": "ham",
+      "score": 0.00028815084499910984,
+      "score_type": "probability"
+    },
+    {
+      "text": "Santa calling! Would your little ones like a call from Santa Xmas Eve? Call 09077818151 to book you time. Calls1.50ppm last 3mins 30s T&C www.santacalling.com",
+      "true_label": "spam",
+      "predicted_label": "ham",
+      "score": 0.00023889188446525275,
+      "score_type": "probability"
+    },
+    {
+      "text": "Babe: U want me dont u baby! Im nasty and have a thing 4 filthyguys. Fancy a rude time with a sexy bitch. How about we go slo n hard! Txt XXX SLO(4msgs)",
+      "true_label": "spam",
+      "predicted_label": "ham",
+      "score": 1.2001756703306303e-05,
+      "score_type": "probability"
+    },
+    {
+      "text": "Xmas & New Years Eve tickets are now on sale from the club, during the day from 10am till 8pm, and on Thurs, Fri & Sat night this week. They're selling fast!",
+      "true_label": "spam",
+      "predicted_label": "ham",
+      "score": 9.951284956384096e-06,
+      "score_type": "probability"
+    }
+  ]
+}
